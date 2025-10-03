@@ -192,7 +192,7 @@ Each page includes a "Back to Top" button for easy navigation.
 ## 👨‍🎓 Project Information
 
 **Author**: Sala Daniele  
-**Academic Year**: 2015-2016 (estimated based on content)  
+**Academic Year**: 2017-2018   
 **School Level**: High School Final Year (Esame di Maturità)  
 **Project Type**: Interdisciplinary Thesis (Tesina)  
 **Development Period**: Final academic year
