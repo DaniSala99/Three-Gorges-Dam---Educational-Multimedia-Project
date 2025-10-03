@@ -3,6 +3,8 @@ An interactive web presentation exploring the Three Gorges Dam, the world's larg
 
 A comprehensive web-based presentation about the Three Gorges Dam in China, developed as a high school final examination thesis (Tesina di Maturità).
 
+
+
 ## 📚 Educational Context
 
 This project was created as an interdisciplinary thesis for the Italian high school final examination (Esame di Stato), exploring one of the world's most impressive engineering achievements and its multifaceted impact.
@@ -11,7 +13,7 @@ This project was created as an interdisciplinary thesis for the Italian high sch
 - **Geography**: Location, environmental impact, territorial changes
 - **Science**: Hydraulic engineering, renewable energy production
 - **English**: International documentation and sources
-- **IT and Engineeringh**: Dam construction, turbine systems, ship lift mechanisms, html and css coding
+- **IT and Engineering**: Dam construction, turbine systems, ship lift mechanisms, html and css coding
 
 ### Educational Objectives
 - Analyze the relationship between technological progress and environmental sustainability
