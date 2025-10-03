@@ -3,7 +3,10 @@ An interactive web presentation exploring the Three Gorges Dam, the world's larg
 
 A comprehensive web-based presentation about the Three Gorges Dam in China, developed as a high school final examination thesis (Tesina di Maturità).
 
+## 📸 Screenshots
 
+![Main Menu](screenshots/home.png)
+![Caratteristiche](screenshots/caratteristiche.png)
 
 ## 📚 Educational Context
 
